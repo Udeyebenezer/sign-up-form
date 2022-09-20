@@ -1,0 +1,71 @@
+body{
+    background-image: url("../music.jpg");
+    background-repeat: no-repeat;
+    width: 100vh;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+form{
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+button{
+    background-color: brown;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: .5rem;
+    margin-top: 20px;
+    margin-bottom: 200px;
+    margin-right: -100%;
+    font-size: 2rem;
+}
+.name {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: .5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: -100%;
+    font-size: 2rem;
+}
+ .email {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: .5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: -100%;
+    font-size: 2rem;
+ }
+ .password {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: .5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: -100%;
+    font-size: 2rem;
+ }
+ .pass {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: .5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: -100%;
+    font-size: 2rem;
+ }
